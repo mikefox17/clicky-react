@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aussie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2jaf4dI3u8s1n5r7nxdHunBbJcbcJdg8MUB_NyJM5Qg3n52vLw",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Boxer",
+    "image": "https://i253.photobucket.com/albums/hh68/Allissa_2250/Dogs/NEW001.jpg?width=250&height=250&crop=1:1,smart",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Poodle",
+    "image": "https://i.imgur.com/Fy5Xejpb.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Mini Aussie",
+    "image": "https://i28.photobucket.com/albums/c213/roseqtrhorses/Mini%20Aussies/Shelbysitting.jpg?width=250&height=250&crop=1:1,smart",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "German Shepard",
+    "image": "https://i812.photobucket.com/albums/zz50/ramoth2/beth%20the%20gsd/IMG_1459.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Pug",
+    "image": "https://i823.photobucket.com/albums/zz154/sogalishis/sagipug.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Border Collie",
+    "image": "https://i699.photobucket.com/albums/vv354/Thanya-999/BorderCollie.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Corgi",
+    "image": "https://i675.photobucket.com/albums/vv118/badassdutra/animals%20i%20want/pembroke-welsh-corgi-0017.jpg?width=250&height=250&crop=1:1,smart",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Lab",
+    "image": "https://i439.photobucket.com/albums/qq120/daniellebella08/2.jpg?width=250&height=250&crop=1:1,smart",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Cat",
+    "image": "https://i.imgur.com/VEBqKCZb.jpg",
+    "count": 0
+  }
+]
